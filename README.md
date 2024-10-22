@@ -1,7 +1,7 @@
 ## Cd into directory
 
 ```bash
-cd Intro-to-ML-CW1/
+cd source_code/
 ```
 
 ## Create venv
