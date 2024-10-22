@@ -4,16 +4,10 @@
 cd Intro-to-ML-CW1/
 ```
 
-## Install venv
-
-```bash
-pip install virtualenv
-```
-
 ## Create venv
 
 ```bash
-python -m venv myenv
+python3 -m venv myenv
 ```
 
 ## Activate environment
@@ -33,3 +27,9 @@ pip install -r requirements.txt
 ```bash
 code .
 ```
+
+## Select Python environment
+
+Click top right "python kernel" -> "select python environments" -> "myenv"
+
+## Run cells
